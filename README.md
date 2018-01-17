@@ -1,3 +1,5 @@
+## Lol kek
+
 First Header|Second Header
 -|-
 Content Cell|Content Cell
@@ -8,3 +10,8 @@ Content Cell  | Content Cell
 параграф 1  
 
 параграф 2
+
+lol|kek
+---|---
+
+[Some text](#markdown-header-lol-kek)
