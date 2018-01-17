@@ -1,4 +1,4 @@
-[Some text](#лол-кек)
+[Some text](#lol-kek)
 
 First Header|Second Header
 -|-
@@ -16,4 +16,4 @@ lol|kek
 
 
 
-## Лол кек
+## Lol kek
